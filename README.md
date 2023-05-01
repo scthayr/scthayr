@@ -1,6 +1,4 @@
-### Hello! Welcome to my Github profile. 👋
-
-### My name is Thaina.
+### Hello, i'm Thaina Silva! Welcome to my Github profile. ✨
 
 # About me:
 
@@ -8,7 +6,7 @@
 
 #### I love code and create new stuff, I like too much to discover new technologies and acquire knowledge in this area. 💻
 
-## Learning:
+# 🌱 Learning:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
