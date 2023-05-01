@@ -1,10 +1,4 @@
-### Hello, i'm Thaina Silva! Welcome to my Github profile. ✨
-
-# About me:
-
-#### I'm a Student Web Developer.
-
-#### I love code and create new stuff, I like too much to discover new technologies and acquire knowledge in this area. 💻
+### Hello, i'm Thaina Silva! Welcome to my Github profile. ☕
 
 # 🌱 Learning:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
