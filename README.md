@@ -1,4 +1,4 @@
-## Hello, i'm Thaina Silva! Welcome to my Github profile. ☕
+## Hello, i'm Thaina! Welcome to my Github profile. ☕
 
 ### 🌱 Learning:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
