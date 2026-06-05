@@ -1,20 +1,142 @@
-## Hello, welcome to my github profile. 
+<div align="center">
 
-### 👾 Learning:
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,50:4A2C2A,100:A67C52&text=Thaina%20Cavalcanti&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" />
 
+<br>
 
-### 🚀 Skills:
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A67C52&center=true&vCenter=true&width=900&lines=Front-End+Developer;Vue.js+%7C+React+%7C+Node.js;Tailwind+CSS+%7C+SCSS;Figma+%7C+AI+Tools;Building+Modern+Digital+Experiences" />
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=scthayr&label=PROFILE+VIEWS&color=A67C52&style=for-the-badge" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://github.com/scthayr.png" width="220"/>
+
+</td>
+
+<td width="65%">
+
+# 👋 Hi, I'm Thaina
+
+### Front-End Developer
+
+🚀 Building modern and responsive web applications
+
+⚡ Passionate about technology and innovation
+
+🎨 Creating clean and engaging user interfaces
+
+🤖 Using AI tools to optimize workflows and productivity
+
+☕ Turning ideas into digital experiences
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,vue,react,vite,nodejs,tailwind,figma,git,github,vscode" />
+</p>
+
+---
+
+# 💻 About Me
+
+```yaml
+name: Thaina Cavalcanti
+
+role: Front-End Developer
+
+frontend:
+  - HTML5
+  - CSS3
+  - SCSS
+  - JavaScript
+  - Vue.js
+  - React
+  - Vite
+  - Tailwind CSS
+
+backend:
+  - Node.js
+
+design:
+  - Figma
+
+tools:
+  - Git
+  - GitHub
+  - VS Code
+  - AI Tools
+
+currently:
+  - Building personal projects
+  - Improving Front-End skills
+  - Learning modern web technologies
+  - Exploring AI-powered development
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=scthayr&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scthayr&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=scthayr&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/seu-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+   
+
+<a href="mailto:seuemail@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Vue.js 💚 • React ⚛️ • Tailwind 🎨 • Node.js 🚀
+
+Building elegant, scalable and modern web experiences.
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F0F0F,50:4A2C2A,100:A67C52" />
+
+</div>
 
 
