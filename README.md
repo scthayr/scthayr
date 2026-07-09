@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:7A2E43,50:C97B94,100:F7CAD0&text=Thaina%20Cavalcanti&fontColor=FFF5F7&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:A64B3F,50:E8927C,100:FADCD9&text=Thaina%20Cavalcanti&fontColor=FFF6F2&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/thainacavalcantii/">
-<img src="https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=7A2E43" />
+<img src="https://img.shields.io/badge/LinkedIn-FADCD9?style=for-the-badge&logo=linkedin&logoColor=A64B3F" />
 </a>
 <a href="https://github.com/scthayr">
-<img src="https://img.shields.io/badge/GitHub-F7CAD0?style=for-the-badge&logo=github&logoColor=7A2E43" />
+<img src="https://img.shields.io/badge/GitHub-FADCD9?style=for-the-badge&logo=github&logoColor=A64B3F" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=17&pause=1400&color=C97B94&center=true&vCenter=true&width=560&lines=Front-End+Developer;Vue.js+%26+React;Interfaces+with+intention" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=17&pause=1400&color=E8927C&center=true&vCenter=true&width=560&lines=Front-End+Developer;Vue.js+%26+React;Interfaces+with+intention" />
 
 </div>
 
@@ -37,20 +37,20 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 
 **Interface**
 
-![HTML5](https://img.shields.io/badge/HTML5-7A2E43?style=for-the-badge&logo=html5&logoColor=F7CAD0)
-![CSS3](https://img.shields.io/badge/CSS3-7A2E43?style=for-the-badge&logo=css3&logoColor=F7CAD0)
-![SCSS](https://img.shields.io/badge/SCSS-7A2E43?style=for-the-badge&logo=sass&logoColor=F7CAD0)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-7A2E43?style=for-the-badge&logo=tailwindcss&logoColor=F7CAD0)
+![HTML5](https://img.shields.io/badge/HTML5-A64B3F?style=for-the-badge&logo=html5&logoColor=FADCD9)
+![CSS3](https://img.shields.io/badge/CSS3-A64B3F?style=for-the-badge&logo=css3&logoColor=FADCD9)
+![SCSS](https://img.shields.io/badge/SCSS-A64B3F?style=for-the-badge&logo=sass&logoColor=FADCD9)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-A64B3F?style=for-the-badge&logo=tailwindcss&logoColor=FADCD9)
 
 </td>
 <td valign="top" width="50%">
 
 **Application**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-C97B94?style=for-the-badge&logo=javascript&logoColor=FFF5F7)
-![Vue.js](https://img.shields.io/badge/Vue.js-C97B94?style=for-the-badge&logo=vuedotjs&logoColor=FFF5F7)
-![React](https://img.shields.io/badge/React-C97B94?style=for-the-badge&logo=react&logoColor=FFF5F7)
-![Vite](https://img.shields.io/badge/Vite-C97B94?style=for-the-badge&logo=vite&logoColor=FFF5F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-E8927C?style=for-the-badge&logo=javascript&logoColor=FFF6F2)
+![Vue.js](https://img.shields.io/badge/Vue.js-E8927C?style=for-the-badge&logo=vuedotjs&logoColor=FFF6F2)
+![React](https://img.shields.io/badge/React-E8927C?style=for-the-badge&logo=react&logoColor=FFF6F2)
+![Vite](https://img.shields.io/badge/Vite-E8927C?style=for-the-badge&logo=vite&logoColor=FFF6F2)
 
 </td>
 </tr>
@@ -59,21 +59,21 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 
 **Back-End**
 
-![Java](https://img.shields.io/badge/Java-7A2E43?style=for-the-badge&logo=openjdk&logoColor=F7CAD0)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-7A2E43?style=for-the-badge&logo=springboot&logoColor=F7CAD0)
-![Node.js](https://img.shields.io/badge/Node.js-7A2E43?style=for-the-badge&logo=nodedotjs&logoColor=F7CAD0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7A2E43?style=for-the-badge&logo=postgresql&logoColor=F7CAD0)
-![Docker](https://img.shields.io/badge/Docker-7A2E43?style=for-the-badge&logo=docker&logoColor=F7CAD0)
+![Java](https://img.shields.io/badge/Java-A64B3F?style=for-the-badge&logo=openjdk&logoColor=FADCD9)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-A64B3F?style=for-the-badge&logo=springboot&logoColor=FADCD9)
+![Node.js](https://img.shields.io/badge/Node.js-A64B3F?style=for-the-badge&logo=nodedotjs&logoColor=FADCD9)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A64B3F?style=for-the-badge&logo=postgresql&logoColor=FADCD9)
+![Docker](https://img.shields.io/badge/Docker-A64B3F?style=for-the-badge&logo=docker&logoColor=FADCD9)
 
 </td>
 <td valign="top">
 
 **Design & Tooling**
 
-![Figma](https://img.shields.io/badge/Figma-C97B94?style=for-the-badge&logo=figma&logoColor=FFF5F7)
-![Git](https://img.shields.io/badge/Git-C97B94?style=for-the-badge&logo=git&logoColor=FFF5F7)
-![GitHub](https://img.shields.io/badge/GitHub-C97B94?style=for-the-badge&logo=github&logoColor=FFF5F7)
-![VS Code](https://img.shields.io/badge/VS_Code-C97B94?style=for-the-badge&logo=visualstudiocode&logoColor=FFF5F7)
+![Figma](https://img.shields.io/badge/Figma-E8927C?style=for-the-badge&logo=figma&logoColor=FFF6F2)
+![Git](https://img.shields.io/badge/Git-E8927C?style=for-the-badge&logo=git&logoColor=FFF6F2)
+![GitHub](https://img.shields.io/badge/GitHub-E8927C?style=for-the-badge&logo=github&logoColor=FFF6F2)
+![VS Code](https://img.shields.io/badge/VS_Code-E8927C?style=for-the-badge&logo=visualstudiocode&logoColor=FFF6F2)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 <div align="center">
 
 <a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/Email-7A2E43?style=for-the-badge&logo=gmail&logoColor=F7CAD0" />
+<img src="https://img.shields.io/badge/Email-A64B3F?style=for-the-badge&logo=gmail&logoColor=FADCD9" />
 </a>
 
 </div>
@@ -97,6 +97,6 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 <sub>Thanks for stopping by.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7A2E43,50:C97B94,100:F7CAD0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:A64B3F,50:E8927C,100:FADCD9" width="100%"/>
 
 
