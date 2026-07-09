@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:A64B3F,50:E8927C,100:FADCD9&text=Thaina%20Cavalcanti&fontColor=FFF6F2&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <a href="https://www.linkedin.com/in/thainacavalcantii/">
-<img src="https://img.shields.io/badge/LinkedIn-FADCD9?style=for-the-badge&logo=linkedin&logoColor=A64B3F" />
+<img src="https://img.shields.io/badge/LinkedIn-E8927C?style=for-the-badge&logo=linkedin&logoColor=FFF6F2" />
 </a>
 <a href="https://github.com/scthayr">
-<img src="https://img.shields.io/badge/GitHub-FADCD9?style=for-the-badge&logo=github&logoColor=A64B3F" />
+<img src="https://img.shields.io/badge/GitHub-E8927C?style=for-the-badge&logo=github&logoColor=FFF6F2" />
 </a>
 
 <br><br>
