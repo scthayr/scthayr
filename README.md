@@ -2,6 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2B2523,50:6B4F3F,100:D8C3A5&text=Thaina%20Cavalcanti&fontColor=F5EFE6&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%"/>
 
+<a href="https://www.linkedin.com/in/thainacavalcantii/">
+<img src="https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=8B5D6B" />
+</a>
+<a href="https://github.com/scthayr">
+<img src="https://img.shields.io/badge/GitHub-F7CAD0?style=for-the-badge&logo=github&logoColor=8B5D6B" />
+</a>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=17&pause=1400&color=B99C7B&center=true&vCenter=true&width=560&lines=Front-End+Developer;Vue.js+%26+React;Interfaces+with+intention" />
 
 </div>
@@ -76,14 +85,8 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 
 <div align="center">
 
-<a href="https://linkedin.com/in/seu-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-2B2523?style=for-the-badge&logo=linkedin&logoColor=D8C3A5" />
-</a>
 <a href="mailto:seuemail@email.com">
 <img src="https://img.shields.io/badge/Email-2B2523?style=for-the-badge&logo=gmail&logoColor=D8C3A5" />
-</a>
-<a href="https://github.com/scthayr">
-<img src="https://img.shields.io/badge/GitHub-2B2523?style=for-the-badge&logo=github&logoColor=D8C3A5" />
 </a>
 
 </div>
@@ -95,4 +98,5 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2B2523,50:6B4F3F,100:D8C3A5" width="100%"/>
+
 
