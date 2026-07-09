@@ -85,7 +85,7 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 
 <div align="center">
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:scthayprogrammer@outlook.com">
 <img src="https://img.shields.io/badge/Email-A64B3F?style=for-the-badge&logo=gmail&logoColor=FADCD9" />
 </a>
 
