@@ -28,39 +28,43 @@ Right now I'm deepening my front-end fundamentals and experimenting with AI-assi
 
 **Interface**
 
-![HTML5](https://img.shields.io/badge/HTML5-2B2523?style=flat-square&logo=html5&logoColor=D8C3A5)
-![CSS3](https://img.shields.io/badge/CSS3-2B2523?style=flat-square&logo=css3&logoColor=D8C3A5)
-![SCSS](https://img.shields.io/badge/SCSS-2B2523?style=flat-square&logo=sass&logoColor=D8C3A5)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2B2523?style=flat-square&logo=tailwindcss&logoColor=D8C3A5)
+![HTML5](https://img.shields.io/badge/HTML5-2B2523?style=for-the-badge&logo=html5&logoColor=D8C3A5)
+![CSS3](https://img.shields.io/badge/CSS3-2B2523?style=for-the-badge&logo=css3&logoColor=D8C3A5)
+![SCSS](https://img.shields.io/badge/SCSS-2B2523?style=for-the-badge&logo=sass&logoColor=D8C3A5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2B2523?style=for-the-badge&logo=tailwindcss&logoColor=D8C3A5)
 
 </td>
 <td valign="top" width="50%">
 
 **Application**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6B4F3F?style=flat-square&logo=javascript&logoColor=F5EFE6)
-![Vue.js](https://img.shields.io/badge/Vue.js-6B4F3F?style=flat-square&logo=vuedotjs&logoColor=F5EFE6)
-![React](https://img.shields.io/badge/React-6B4F3F?style=flat-square&logo=react&logoColor=F5EFE6)
-![Vite](https://img.shields.io/badge/Vite-6B4F3F?style=flat-square&logo=vite&logoColor=F5EFE6)
+![JavaScript](https://img.shields.io/badge/JavaScript-6B4F3F?style=for-the-badge&logo=javascript&logoColor=F5EFE6)
+![Vue.js](https://img.shields.io/badge/Vue.js-6B4F3F?style=for-the-badge&logo=vuedotjs&logoColor=F5EFE6)
+![React](https://img.shields.io/badge/React-6B4F3F?style=for-the-badge&logo=react&logoColor=F5EFE6)
+![Vite](https://img.shields.io/badge/Vite-6B4F3F?style=for-the-badge&logo=vite&logoColor=F5EFE6)
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**Tooling**
+**Back-End**
 
-![Git](https://img.shields.io/badge/Git-2B2523?style=flat-square&logo=git&logoColor=D8C3A5)
-![GitHub](https://img.shields.io/badge/GitHub-2B2523?style=flat-square&logo=github&logoColor=D8C3A5)
-![VS Code](https://img.shields.io/badge/VS_Code-2B2523?style=flat-square&logo=visualstudiocode&logoColor=D8C3A5)
+![Java](https://img.shields.io/badge/Java-2B2523?style=for-the-badge&logo=openjdk&logoColor=D8C3A5)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2B2523?style=for-the-badge&logo=springboot&logoColor=D8C3A5)
+![Node.js](https://img.shields.io/badge/Node.js-2B2523?style=for-the-badge&logo=nodedotjs&logoColor=D8C3A5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2B2523?style=for-the-badge&logo=postgresql&logoColor=D8C3A5)
+![Docker](https://img.shields.io/badge/Docker-2B2523?style=for-the-badge&logo=docker&logoColor=D8C3A5)
 
 </td>
 <td valign="top">
 
-**Design & Back-End**
+**Design & Tooling**
 
-![Figma](https://img.shields.io/badge/Figma-6B4F3F?style=flat-square&logo=figma&logoColor=F5EFE6)
-![Node.js](https://img.shields.io/badge/Node.js-6B4F3F?style=flat-square&logo=nodedotjs&logoColor=F5EFE6)
+![Figma](https://img.shields.io/badge/Figma-6B4F3F?style=for-the-badge&logo=figma&logoColor=F5EFE6)
+![Git](https://img.shields.io/badge/Git-6B4F3F?style=for-the-badge&logo=git&logoColor=F5EFE6)
+![GitHub](https://img.shields.io/badge/GitHub-6B4F3F?style=for-the-badge&logo=github&logoColor=F5EFE6)
+![VS Code](https://img.shields.io/badge/VS_Code-6B4F3F?style=for-the-badge&logo=visualstudiocode&logoColor=F5EFE6)
 
 </td>
 </tr>
